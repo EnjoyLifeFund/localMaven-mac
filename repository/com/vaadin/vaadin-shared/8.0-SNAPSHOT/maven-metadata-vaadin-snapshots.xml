@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata modelVersion="1.1.0">
+  <groupId>com.vaadin</groupId>
+  <artifactId>vaadin-shared</artifactId>
+  <version>8.0-SNAPSHOT</version>
+  <versioning>
+    <snapshot>
+      <timestamp>20170714.000059</timestamp>
+      <buildNumber>175</buildNumber>
+    </snapshot>
+    <lastUpdated>20170714000059</lastUpdated>
+    <snapshotVersions>
+      <snapshotVersion>
+        <extension>jar</extension>
+        <value>8.0-20170714.000059-175</value>
+        <updated>20170714000059</updated>
+      </snapshotVersion>
+      <snapshotVersion>
+        <extension>pom</extension>
+        <value>8.0-20170714.000059-175</value>
+        <updated>20170714000059</updated>
+      </snapshotVersion>
+    </snapshotVersions>
+  </versioning>
+</metadata>

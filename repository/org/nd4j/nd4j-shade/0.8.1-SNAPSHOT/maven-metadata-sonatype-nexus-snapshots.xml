@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata modelVersion="1.1.0">
+  <groupId>org.nd4j</groupId>
+  <artifactId>nd4j-shade</artifactId>
+  <version>0.8.1-SNAPSHOT</version>
+  <versioning>
+    <snapshot>
+      <timestamp>20170811.112023</timestamp>
+      <buildNumber>1671</buildNumber>
+    </snapshot>
+    <lastUpdated>20170811112023</lastUpdated>
+    <snapshotVersions>
+      <snapshotVersion>
+        <extension>pom</extension>
+        <value>0.8.1-20170811.112023-1671</value>
+        <updated>20170811112023</updated>
+      </snapshotVersion>
+    </snapshotVersions>
+  </versioning>
+</metadata>

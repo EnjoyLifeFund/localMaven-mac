@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata modelVersion="1.1.0">
+  <groupId>org.nd4j</groupId>
+  <artifactId>nd4j-backends</artifactId>
+  <version>0.8.1-SNAPSHOT</version>
+  <versioning>
+    <snapshot>
+      <timestamp>20170811.111847</timestamp>
+      <buildNumber>1684</buildNumber>
+    </snapshot>
+    <lastUpdated>20170811111847</lastUpdated>
+    <snapshotVersions>
+      <snapshotVersion>
+        <extension>pom</extension>
+        <value>0.8.1-20170811.111847-1684</value>
+        <updated>20170811111847</updated>
+      </snapshotVersion>
+    </snapshotVersions>
+  </versioning>
+</metadata>
